@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://asimmunawar.github.io/try/sitemap.xml
+Sitemap: https://asimmunawar.github.io/try//sitemap.xml
